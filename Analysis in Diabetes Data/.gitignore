@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# VS Code settings (optional)
+.vscode/
+
+# Mac OS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment logs
+pip-log.txt
+
+# Data files (optional - comment out if you want to keep datasets)
+*.csv
+*.xls
+*.xlsx
+
+# Jupyter notebook hidden files
+*.nbconvert.ipynb
