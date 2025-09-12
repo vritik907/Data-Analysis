@@ -146,8 +146,3 @@ Specify license (e.g. MIT, GPL etc) if applicable.
 
 ---
 
-## Contact
-
-- **Author**: Your Name  
-- **Email**: your.email@example.com  
-- Optionally link to your LinkedIn / GitHub
