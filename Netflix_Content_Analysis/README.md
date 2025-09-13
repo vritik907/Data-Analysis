@@ -4,24 +4,6 @@ This project explores Netflix’s content dataset to uncover patterns and insigh
 
 ---
 
-## 📂 Repository Structure
-
-```
-Netflix_Content_Analysis/
-├── data/
-│   └── netflix_titles.csv        # main dataset (movies & TV shows)
-├── notebooks/
-│   ├── data_cleaning.ipynb       # cleaning and preprocessing steps
-│   ├── EDA_release_year.ipynb     # exploring release vs. addition year
-│   ├── description_analysis.ipynb  # text analytics (frequencies, bigrams)
-├── reports/
-│   └── findings.pdf              # summary of key insights & visualizations
-├── requirements.txt              # Python dependencies
-└── README.md                     # this file
-```
-
----
-
 ## 🛠 Features & Analysis
 
 Here are some of the analyses and visualizations included:
