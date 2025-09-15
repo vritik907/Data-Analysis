@@ -32,7 +32,7 @@ Data‑Analysis/
    - Feature correlations  
    - Visualization of numeric & categorical features  
 
-2. **Preprocessing (manual, no pipelines)**  
+2. **Preprocessing (manual, no pipelines, also with pipeline)**  
    - Handling missing values via imputation  
    - Encoding categorical variables  
    - Scaling numeric features  
